@@ -100,7 +100,7 @@ Version: 1.0
   right: 100%;
   width: 100%;
   height: 10px;
-  background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+  background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
   pointer-events: none;
 }
 
@@ -131,7 +131,7 @@ h5,
 h6 {
     margin: 0 0 20px 0;
     text-transform: none;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
@@ -155,7 +155,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 .light {
@@ -200,7 +200,7 @@ a:focus {
 
 .highlight{
     font-weight: 700;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 .list-ord{
@@ -259,8 +259,8 @@ blockquote {
     font-size: 22px;
     position: relative; 
     padding-left: 90px;
-    color: rgba(254,82,76, 1);
-    border-color: rgba(254,82,76, 1);
+    color: rgba(254, 124, 38, 1);
+    border-color: rgba(254, 124, 38, 1);
 }
  
 blockquote:before {
@@ -330,7 +330,7 @@ blockquote span{
 }
 
 .navbar-custom a {
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 .navbar-custom .nav li a {
@@ -424,7 +424,7 @@ blockquote span{
 .overlay {
     position: fixed;
     display: block; 
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     top: 0;
     border: 0;
     left: 0;
@@ -744,7 +744,7 @@ video {
     right: 0;
     border-width: 0 30px 30px 0;
     border-style: solid;
-    border-color: #fff #fff rgba(254,82,76, 1) rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border-color: #fff #fff rgba(254, 124, 38, 1) rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
        -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
             box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -792,7 +792,7 @@ video {
 
 
 .services-item i{
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     padding: 0;
     margin: 0 0 10px 0;
      -webkit-transition: all .2s ease-in-out;
@@ -801,7 +801,7 @@ video {
 }
 
 .services-item:hover{
-    background:rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background:rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
      -webkit-transition: background .2s ease-in-out;
         -moz-transition: background .2s ease-in-out;
              transition: background .2s ease-in-out;
@@ -872,7 +872,7 @@ video {
     margin: 0 0 22px 0;
     min-width: 80px;
     color: #fff;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     text-align: center;
     border-radius: 50px;
     width: 80px;
@@ -1066,7 +1066,7 @@ ul.project-meta li a:hover{
     line-height: 18px;
     font-size: 18px;
     text-transform: capitalize;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 .full-project:hover {
     background: rgba(223,81,76, 1); /* Hover color, can be changed via colors.css */
@@ -1176,7 +1176,7 @@ ul.project-meta{
 
 .project-navigation a:hover {
     width: 60px;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 .project-container:hover .project-navigation .btn-prev,
@@ -1189,7 +1189,7 @@ ul.project-meta{
 /* ---------------------------------------------- */
 
 .our-clients {
-    background-color: rgba(9,113,178, 1); /* Primary color, can be changed via colors.css */
+    background-color: rgba(14, 5, 53, 1); /* Primary color, can be changed via colors.css */
 }
 
 .our-clients h2{
@@ -1416,7 +1416,7 @@ span.count-description {
     width: 100%;
     margin:0;
     padding: 50px 0;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     -webkit-box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
        -moz-box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
             box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
@@ -1458,7 +1458,7 @@ span.count-description {
     text-align: center;
     line-height: 1.5;
     background-color: #fff;
-    border: 2px solid rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 2px solid rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     -webkit-border-radius: 10px;
        -moz-border-radius: 10px;
             border-radius: 10px;
@@ -1472,7 +1472,7 @@ span.count-description {
     right: 80px;
     top: 100%;
     border: 15px solid;
-    border-color: rgba(254,82,76, 1) transparent transparent rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border-color: rgba(254, 124, 38, 1) transparent transparent rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 .testimonials p.speech:after{
@@ -1491,7 +1491,7 @@ span.count-description {
 }
 
 .client-info h4{
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     margin: 10px 0 0 0;
     padding: 0;
 }
@@ -1585,8 +1585,8 @@ footer .social a{
     display: inline-block;
     padding: 5px 15px;
     color: #fff;
-    border: 1px solid rgba(254,82,76, 1);
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 1px solid rgba(254, 124, 38, 1);
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
     font-size: 30px;
 }
 
@@ -1673,8 +1673,8 @@ footer .social a{
 
 .btn-default {
     color: #fff;
-    border: 1px solid rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    border: 1px solid rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 
@@ -1690,23 +1690,23 @@ footer .social a{
 
 
 .btn-outlined {
-    border: 1px solid rgba(9,113,178, 1); /* Secondary color, can be changed via colors.cs */
+    border: 1px solid rgba(14, 5, 53, 1); /* Secondary color, can be changed via colors.cs */
     color: #fff;
-    background-color: rgba(9,113,178, 1); /* Secondary color, can be changed via colors.cs */
+    background-color: rgba(14, 5, 53, 1); /* Secondary color, can be changed via colors.cs */
 }
 
 
 .btn-outlined:hover,
 .btn-outlined:focus{
-    border: 1px solid rgba(9,113,178, 1); /* Secondary color, can be changed via colors.cs */
-    color: rgba(9,113,178, 1); /* Secondary color, can be changed via colors.cs */
+    border: 1px solid rgba(14, 5, 53, 1); /* Secondary color, can be changed via colors.cs */
+    color: rgba(14, 5, 53, 1); /* Secondary color, can be changed via colors.cs */
     background: transparent;
 }
 
 .btn-overcolor{
     border: 1px solid rgba(255, 255, 255, 1);
     color: #fff;
-    background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 
 
@@ -1773,7 +1773,7 @@ footer .social a{
     }
     .navbar-custom.top-nav-collapse {
         padding: 10px 0;
-        background: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+        background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
         -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
                 transition: background .5s ease-in-out, padding .5s ease-in-out;
@@ -1835,7 +1835,7 @@ footer .social a{
     }
 
      .navbar-custom a{
-        color: rgba(254,82,76, 1);
+        color: rgba(254, 124, 38, 1);
         color: #fff;
     }
 
