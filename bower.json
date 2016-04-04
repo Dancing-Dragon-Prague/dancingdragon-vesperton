@@ -1,0 +1,28 @@
+{
+  "name": "dancingdragonprague",
+  "homepage": "https://github.com/Dancing-Dragon-Prague/dancingdragon-vesperton",
+  "authors": [
+    "arcturianseed@gmail.com"
+  ],
+  "description": "site for dancing dragon",
+  "main": "index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "vesperton",
+    "dancing",
+    "dragonprague",
+    "adam",
+    "michal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

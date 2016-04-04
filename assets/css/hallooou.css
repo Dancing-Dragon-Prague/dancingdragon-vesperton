@@ -118,7 +118,7 @@ body {
 body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
-    color: #999; /* Can be changed via colors.css */
+    color: #0e0535; /* Can be changed via colors.css */
     background-color: #fff;
 }
 
@@ -155,7 +155,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 .light {
@@ -200,7 +200,7 @@ a:focus {
 
 .highlight{
     font-weight: 700;
-    color: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
+    color: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 .list-ord{
@@ -281,7 +281,7 @@ blockquote span{
     padding: 10px 0;
     display: block;
     font-size: 16px;
-    color: #999;
+    color: #1a237e;
 }
 
 /* 4:   Navigation
@@ -684,7 +684,7 @@ blockquote span{
     bottom: 8%;
     right: 5%;
     z-index: 99;
-    opacity: .4;
+    opacity: .5;
 }
 
 .video-controls-visible {
@@ -855,7 +855,7 @@ video {
 .products{
     width: 100%;
     background: #222;
-    background: url(../images/process_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/process_bg.png) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1005,7 +1005,7 @@ video {
 
 #portfolio{
     background: #222;
-    background: url(../images/portfolio_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/portfolio_bg.png) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1054,7 +1054,7 @@ ul.project-meta li a{
     color: #fff;
 }
 ul.project-meta li a:hover{
-    color: #f76758;
+    color: #0d2571;
 }
 
 .full-project {
@@ -1069,7 +1069,7 @@ ul.project-meta li a:hover{
     background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
 }
 .full-project:hover {
-    background: rgba(223,81,76, 1); /* Hover color, can be changed via colors.css */
+    background: rgba(24, 49, 79, 1); /* Hover color, can be changed via colors.css */
 }
 .full-project a {
     padding: 0px;
@@ -1091,7 +1091,7 @@ ul.project-meta li a:hover{
 /* ---------------------------------------------- */
 .recent-project::before {
     content: "";
-    background: rgba(59,59,59,0.8);
+    background: rgba(26,35,126,0.8);
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1156,7 +1156,7 @@ ul.project-meta{
     height: 70px;
     top: 40%;
     margin-top: -40px;
-    background: rgba(59,59,59,0.9);
+    background: rgba(26,35,126,0.9);
     color: #fff;
     line-height: 80px;
     text-align: center;
@@ -1176,7 +1176,7 @@ ul.project-meta{
 
 .project-navigation a:hover {
     width: 60px;
-    background: rgba(254, 124, 38, 1); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 .project-container:hover .project-navigation .btn-prev,
@@ -1350,7 +1350,7 @@ ul.project-meta{
   background-image: url("../images/cd-icon-controller.svg");
 }
 .no-touch #cd-zoom-in:hover, .no-touch #cd-zoom-out:hover {
-  background-color: #d36868;
+  background-color: #F57522;
 }
 
 #cd-zoom-in {
@@ -1369,7 +1369,7 @@ ul.project-meta{
 
 .counter-section {
     text-align: center;
-    background: url(../images/counter_bg.jpg) 50% 0 no-repeat scroll;
+    background: url(../images/counter_bg.png) 50% 0 no-repeat scroll;
     -webkit-background-size: cover;
        -moz-background-size: cover;
             background-size: cover;
@@ -1840,7 +1840,7 @@ footer .social a{
     }
 
     .video-section{
-        background: url(../images/youtube-video-cover.jpg) no-repeat bottom center scroll;
+        background: url(../images/youtube-video-cover.png) no-repeat bottom center scroll;
     }
 
 
@@ -1876,7 +1876,7 @@ footer .social a{
 /* ---------------------------------------------- */
 @media screen and (max-device-width: 800px) {
     /*body {
-        background: url(../images/youtube-video-cover.jpg) #000 no-repeat center center fixed;
+        background: url(../images/youtube-video-cover.png) #000 no-repeat center center fixed;
     }*/
     .html5-video-container{
         background: url(../images/typing-on-mac.jpg) no-repeat bottom center scroll;
@@ -1964,5 +1964,13 @@ body {
 
 .debug{
     border:1px solid #f00;
+}
+
+#gradient
+{
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
 }
 
