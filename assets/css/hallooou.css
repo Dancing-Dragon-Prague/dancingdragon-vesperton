@@ -298,7 +298,7 @@ blockquote span{
 }
 
 .navbar-custom.top-nav-collapse{
-    background: rgba(254,82,76, .9); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, .9); /* Primary color, can be changed via colors.css */
 }
 
 .navbar-custom .navbar-brand {
@@ -572,7 +572,7 @@ blockquote span{
 
 .carousel-control.left:hover,
 .carousel-control.right:hover{
-    background: rgba(254,82,76, 0.9); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
 }
 
 #parallax-slide{
@@ -963,7 +963,7 @@ video {
 .team-member figure:hover figcaption{
     visibility: visible;
     color: #fff;
-    background: rgba(230,78,62,0.9); /* Primary color, can be changed via colors.css */
+    background: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
     height: 100%;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
@@ -1344,7 +1344,7 @@ ul.project-meta{
   width: 32px;
   cursor: pointer;
   margin-left: 10px;
-  background-color: rgba(254,82,76, 0.9); /* Primary color, can be changed via colors.css */
+  background-color: rgba(254, 124, 38, 0.9); /* Primary color, can be changed via colors.css */
   background-repeat: no-repeat;
   background-size: 32px 64px;
   background-image: url("../images/cd-icon-controller.svg");
